@@ -1,3 +1,12 @@
+
+
+
+https://user-images.githubusercontent.com/72974932/213565428-eb2a525e-e411-4974-9f9e-e1cb082ba66c.mp4
+
+
+
+
+
 # Minify
 Minify is a lightweight and fast frontend framework designed to make developing web applications easier. It offers a range of features to reduce common development tasks, while still keeping the framework minimal. 
 
